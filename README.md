@@ -1,2 +1,2 @@
 # LLM-RAG
-My RAG graduation project
+My RAG project
